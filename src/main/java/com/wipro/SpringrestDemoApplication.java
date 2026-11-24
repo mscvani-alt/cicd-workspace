@@ -8,7 +8,7 @@ public class SpringrestDemoApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(SpringrestDemoApplication.class, args);
-		System.out.println("application started");
+		System.out.println("application started    ");
 	}
 
 }
